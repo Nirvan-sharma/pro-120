@@ -1,0 +1,58 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 23px;
+  }
+
+  body{
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(233, 83, 83);
+  }
+  
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    float: none;
+    box-shadow:5px 5px 5px rgb(233, 83, 83);
+    padding: 10px;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px rgb(67, 110, 230);
+    font-size: 20px;
+  }
+
+  .result_para_tag span{
+    white-space: pre-line;
+  }
+
+  .copy_right_footer{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width: 100%;
+    background-color: rgb(67, 110, 230);
+    line-height: 2;
+    text-align: center;
+  }
+ 
+  canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(67, 110, 230);
+    margin-top: 190px;
+  }
+
+  #google-lens{
+    width: 130px;
+    height: 60px;
+    margin-left: 500px;
+  }
